@@ -246,6 +246,7 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;"     
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=williaw-lira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
