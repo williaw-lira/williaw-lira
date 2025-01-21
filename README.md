@@ -1,15 +1,7 @@
 # 🧑‍💻 William Matew
 
 **`Desenvolvedor FullStack - Software `**
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
-    <a href="https://www.linkedin.com/in/william-matew-lira-barzon-983789231/">
-/>    
+  
 
 Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cursando Engenharia de Software. Gosto de tecnologia e música, meu canal no YouTube "[WILLIAW](https://www.youtube.com/@williaw_lira)", onde mostro um pouco da minha vida pessoal, e também Instagram, com o perfil chamado "[williaw_lira](https://www.instagram.com/williaw_lira/)".
 
