@@ -65,6 +65,15 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+
+<img 
+    align="left" 
+    alt="VUE JS" 
+    title="VUE JS"
+    width="30px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+          
+
 <img 
     align="left" 
     alt="Node.js" 
