@@ -85,6 +85,15 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
 
 <img 
     align="left" 
+    alt="My SQL" 
+    title="My SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
+
+<img 
+    align="left" 
     alt="C" 
     title="C"
     width="30px" 
@@ -124,12 +133,6 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
 />
 
 <br/>
-<br/>
-<br/>
-
----
-
-
 
 
 <img 
