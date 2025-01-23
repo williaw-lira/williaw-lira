@@ -67,6 +67,24 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
 
 <img 
     align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+          
+
+<img 
+    align="left" 
+    alt="Mongo DB" 
+    title="Mongo DB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+          
+
+<img 
+    align="left" 
     alt="C" 
     title="C"
     width="30px" 
@@ -85,14 +103,6 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
 />
 
 
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
            
 <img 
     align="left" 
@@ -103,44 +113,6 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
       
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-          
-             
-
-<img 
-    align="left" 
-    alt="Next.js"
-    title="Next.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"          
-/>
-
-
-<img 
-    align="left" 
-    alt="Mysql"
-    title="MySql" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-          
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
 
 <img 
     align="left" 
@@ -158,7 +130,6 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
 ---
 
 
-### 💻 Feramentas
 
 
 <img 
@@ -169,17 +140,7 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="figma" 
-    title="figma"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-             
-          
+        
 
 <img 
     align="left" 
@@ -189,17 +150,6 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
           
-
-
-
-<img 
-    align="left" 
-    alt="Arduino" 
-    title="Arduino"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-
 
 <img 
     align="left" 
