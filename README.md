@@ -38,35 +38,25 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
-
-#
-
-<br/>
-<br/>
-<br/>
-
 ---
 ### 📊 Estatísticas
-
+---
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=williaw-lira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=williaw-lira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
-
-#
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/williaw-lira/williaw-lira/output/github-contribution-grid-snake-dark.svg">
