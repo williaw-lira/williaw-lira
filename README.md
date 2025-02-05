@@ -39,8 +39,10 @@ Me chamo William Matew Lira Barzon, sou natural do Paraná. Atualmente, estou cu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 <br>
+
 ---
-📊 Estatísticas
+
+<h3 align="left">📊 Estatísticas ~</h3>
 
 <p>
   <img 
